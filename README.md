@@ -1,6 +1,5 @@
 # C++ Starter Template for CMake
-<a id="top"></a>
-![Catch2 logo](data/artwork/catch2-logo-small.png)
+![image](https://user-images.githubusercontent.com/32094503/106008548-b496de80-60b7-11eb-92d9-776748d76f25.png)
 
 > Can be used in Visual Studio Code
 
