@@ -54,5 +54,5 @@ double Interpolator::findValue(double x) const {
   double deltaY{upperY - lowerY};
   double deltaX{upperX - lowerX};
  
-  return lowerY + ((x - lowerX)/ deltaX) * deltaY;
+  return (lowerY + ((x - lowerX)/ deltaX) * deltaY);
 }
