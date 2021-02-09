@@ -44,3 +44,12 @@ Once CMake and CMake extensions are installed, type the following in the command
 `CMake: Configure`
 
 This will create a subfolder called `build`. Once you do this, a new button on the left `Activity Bar` in Visual Studio Code will appear which allows you to run and debug the targets.
+
+
+## Origin
+
+This repository is based on another template made by `Ari ourarash` :
+
+```bash
+https://github.com/ourarash/cmake-catch-vsc-template
+```
