@@ -35,7 +35,7 @@ If you are using [Visual Studio Code](https://code.visualstudio.com/), you need 
 ## Cloning this repo
 
 ```bash
-git clone https://github.com/MohamedAmine-BenNasr/Catch2.git
+git clone https://github.com/MohamedAmine-BenNasr/Catch2-Cmake-Vsc-Template.git
 ```
 
 ## Configuring CMake
